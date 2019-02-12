@@ -8,28 +8,34 @@ h1
 
 h2
 {
-	font-family:Trebuchet MS,Comic Sans MS , Arial, Verdana, sans-serif;
+	font-family:Trebuchet MS,Comic Sans MS , Arial, Verdana, sans-ser;
+	color: white;
+
 }
 
 p
 {
     font-family: Comic Sans MS , Arial, Verdana, sans-serif;
+    color: white;
 }
 
 li
 {
     font-family: Comic Sans MS , Arial, Verdana, sans-serif;
+    color: white;
 }
 
 .lien
 {
     font-family: Comic Sans MS , Arial, Verdana, sans-serif;
+    color: white;
 }
 
 body
 {
 
-	background-color: #3498db;
+	background-color: #FFCDC8;
+	background-image: url("flower.gif");
 }
 
 #carte
@@ -39,6 +45,7 @@ body
 	background-color: #FFFFF0;
 	text-align: center;
 	align-content: center;
+	background-image: url("flower down.gif");
 }
 
 .p1 {
@@ -49,6 +56,14 @@ body
   border-radius: 3px;
   font-family: Comic Sans MS , Arial, Verdana, sans-serif;
   font-size:200%;
+}
+
+.image1 {
+  border-radius: 50% ;
+}
+
+.image2 {
+  border-radius: 15px;
 }
 
 .fight
